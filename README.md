@@ -1,2 +1,2 @@
 # git-basics
-Basics of Git
+Basics of Git edited
